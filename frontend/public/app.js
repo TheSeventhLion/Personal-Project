@@ -1,4 +1,3 @@
-angular.module('Gents', [])
+angular.module('Gents', []);
 
 
-console.log('app.js')
